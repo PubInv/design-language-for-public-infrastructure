@@ -22,6 +22,8 @@ Effective communication lies at the core of inclusive public infrastructure. The
 
 Inclusive and accessible design are fundamental aspects of the Public Infrastructure Design Language. We recognize the diverse needs and abilities of individuals, ensuring that public spaces are welcoming and usable for everyone. By considering accessibility in the design process, we strive to create environments that cater to people with disabilities, different cultural backgrounds, and varying age groups.
 
+![Characters](https://github.com/PubInv/design-language-for-public-infrastructure/blob/main/Character_Assets.png)
+
 ## Creativity and Artistic Expression
 
 Artistic expression plays a significant role in enhancing the human experience within public spaces. The Public Infrastructure Design Language project aims to create a space for artists to infuse creativity and inclusive thought into humanitarian and sustainable development. By embracing artistic endeavors, we seek to transform public infrastructure into engaging, aesthetically pleasing, and thought-provoking environments.
