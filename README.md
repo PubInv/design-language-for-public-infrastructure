@@ -4,7 +4,7 @@ The Public Infrastructure Design Language repository aims to provide an explanat
 
 ## Introduction
 
-Public infrastructure plays a vital role in shaping communities and improving quality of life. However, traditional design approaches often lack inclusivity, creativity, and sustainable development. The Public Infrastructure Design Language project seeks to bridge this gap by providing a framework that emphasizes open communication, collaboration, and inclusive thought in the design and implementation of public infrastructure.
+Public infrastructure plays a vital role in shaping communities and improving quality of life. However, traditional design approaches often lack inclusivity, creativity, and sustainable development. The Public Infrastructure Design Language project seeks to bridge this gap by providing a framework that emphasizes open communication, collaboration, and inclusive practices in the design and implementation of public infrastructure.
 
 ## Understanding Public Infrastructure
 
