@@ -49,3 +49,10 @@ The Public Infrastructure Design Language repository provides various resources 
 - Templates: Practical templates and tools to assist in the design process
 
 Explore these resources to gain insights and inspiration for your public infrastructure projects.
+
+## Contributors
+
+1. Victoria Jaqua coined the term "public infrastructure".
+2. Christina Cole created the first "characters".
+3. Joe Torreggiani started this README.
+4. 
